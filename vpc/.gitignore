@@ -1,0 +1,8 @@
+*.hcl
+.terraform/
+*.png
+*.out
+*.json
+*.tfstate
+*.backup
+.idea/
